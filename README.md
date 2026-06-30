@@ -186,7 +186,7 @@ This app is deployed on **Render** (free tier) with Flask serving the React fron
 
 ## 👨‍💻 Author
 
-**Sreenidhi** — [GitHub](https://github.com/sreenidhi-06)
+**Praveena** — [GitHub] https://github.com/
 
 ---
 
