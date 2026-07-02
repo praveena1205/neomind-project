@@ -158,9 +158,9 @@ This app is deployed on **Render** (free tier) with Flask serving the React fron
 
 ## Screen-shots
 
-<img width="1920" height="1080" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/6ac43dba-7d2a-4e3f-a7e4-ef858e537695" />
-<img width="1920" height="1080" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/08199112-edf6-4a45-91e1-e9ea1a1950da" />
-<img width="1920" height="1080" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/60676d2a-ea2d-4e8a-bf48-c9989800743c" />
+<img width="1920" height="865" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/74ee0f64-c15f-450a-848e-0da55d3cdd18" />
+<img width="1920" height="855" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/61df814f-048b-4cfe-9e5b-7bd98b5ad869" />
+<img width="1920" height="843" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/dc11a414-487c-4571-9d15-21c8519e6de5" />
 
 ---
 
